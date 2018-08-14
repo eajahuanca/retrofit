@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/id_reunion"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvnombre"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvfecha_firma"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvavance"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvproyecto"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvtel"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvter"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+    <TextView
+        android:id="@+id/tvvi"
+        android:layout_width="match_parent"
+        android:layout_height="20sp" />
+</LinearLayout>
